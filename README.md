@@ -16,13 +16,15 @@ The purpose of this analysis was to build a model that could accurately predict 
 * Original Data Balance Accuracy Score: 0.9473616612158574
 * Original Data Confusion Matrix: [[18667, 90],[63, 564]]
 * Original Data Classification Report: 
+
 ![samp](https://user-images.githubusercontent.com/118565186/236850779-230e1fa5-bdbb-4a9e-8853-a757f14af227.PNG)
 
 
-- Machine Learning Model 2:
+-Machine Learning Model 2:
 * Resampled Data Balance Accuracy Score: 0.99483535716044
 * Resampled Data Confusion Matrix: [[18653, 104],[3, 624]]
 * Resampled Data Classification Report:
+
 ![resamp](https://user-images.githubusercontent.com/118565186/236850835-556f49f4-7b24-49dd-9d37-d7cbbbbdcc36.PNG)
 
 
