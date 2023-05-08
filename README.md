@@ -16,27 +16,15 @@ The purpose of this analysis was to build a model that could accurately predict 
 * Original Data Balance Accuracy Score: 0.9473616612158574
 * Original Data Confusion Matrix: [[18667, 90],[63, 564]]
 * Original Data Classification Report: 
-             precision    recall  f1-score   support
+![samp](https://user-images.githubusercontent.com/118565186/236850779-230e1fa5-bdbb-4a9e-8853-a757f14af227.PNG)
 
-           0       1.00      1.00      1.00     18757
-           1       0.86      0.90      0.88       627
-
-    accuracy                           0.99     19384
-   macro avg       0.93      0.95      0.94     19384
-weighted avg       0.99      0.99      0.99     19384
 
 - Machine Learning Model 2:
 * Resampled Data Balance Accuracy Score: 0.99483535716044
 * Resampled Data Confusion Matrix: [[18653, 104],[3, 624]]
 * Resampled Data Classification Report:
-              precision    recall  f1-score   support
+![resamp](https://user-images.githubusercontent.com/118565186/236850835-556f49f4-7b24-49dd-9d37-d7cbbbbdcc36.PNG)
 
-           0       1.00      0.99      1.00     18757
-           1       0.86      1.00      0.92       627
-
-    accuracy                           0.99     19384
-   macro avg       0.93      0.99      0.96     19384
-weighted avg       1.00      0.99      0.99     19384
 
 ## Summary
 <br>
